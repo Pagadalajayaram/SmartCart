@@ -65,7 +65,7 @@ Unlike traditional e-commerce platforms, SmartCart allows customers to purchase 
 - React.js
 - React Router
 - Axios
-- Tailwind CSS
+- CSS
 
 ## Backend
 
