@@ -1,5 +1,9 @@
 package com.smartcart.backend.enums;
-
-public class Role {
-    
+    public enum Role {
+    CUSTOMER,
+    FARMER,
+    GROCERY_OWNER,
+    ADMIN
 }
+    
+
